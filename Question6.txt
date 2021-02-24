@@ -1,0 +1,5 @@
+1. Discuss on what is the difference between Authentication and Authorization.
+Ans: Authentication is on login into the system, Authorisation is the accessibility in the website of a user.
+
+2. This lab covers only Authentication. Discuss how authorization can be added.
+Ans: I believe it can be added when we give the user a role, and then check on the role in the router. When the user access a specific route, their role will be check to see if they have authorisation to access the route or not.
